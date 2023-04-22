@@ -1,0 +1,35 @@
+body{
+    background-color: #24353f;
+}
+h1{
+    color: #1cc8e2;
+}
+
+
+a{
+    text-decoration: none;
+    
+
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.form-control:focus{
+    box-shadow: none;
+    border-color: black;
+}
+
+
+p{
+    font-size: larger;
+}
+
+
+#home{
+    background-color: #24353f;
+}
+
+#ttt{
+    background-color: #24353f;
+}
